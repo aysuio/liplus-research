@@ -1,14 +1,14 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
-  button: "Buy Now With $199"
+  title : "Introduction"
+  content : "LiPlus Research was founded in 2019 with passion to seek for the statistical significant factors in crypto world by monitoring wide range of multi-dimensional market data and utilizing deep learning techniques. We endeavor to unveil the truth under the massive data fog"
+  image : "images/home-photo.jpg"
+  button: "Learn more"
 
 ############################## product ###########################
 product:
-  name : "Smart watch"
+  name : "BitMex Tick Level Data"
   image : "images/watch.png"
   price : "199"
   colors : ["black","white","gray"]
@@ -17,8 +17,8 @@ product:
 ############################# Feature ############################
 features:
   enable : true
-  title : "Our Core Features"
-  image : "images/watch-2.png"
+  title : "Our Core Competencies"
+  image : "images/core-competencies.jpg"
 
   # feature at the left of the image
   leftSide:
