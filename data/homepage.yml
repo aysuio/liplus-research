@@ -75,8 +75,9 @@ serviceTwo:
     # about product item loop
     - image : "images/cloud-1.png"
       title : "Multi-dimensional Market Research"
-      content : "Market data in the crypto world is massive and rich, yet noisy and distracting. 
-                You will get our insight of this treasure and gain the unprecedent vision in the investment methdologies"
+      content : "Market data in the crypto world is massive and rich, yet noisy and distracting.
+                We implented data streaming and cleaning system to create high data quality.
+                You will get our insight and gain the unprecedent vision in the investment methdologies"
       button:
         enable : true
         label : "Contact us to learn more"
