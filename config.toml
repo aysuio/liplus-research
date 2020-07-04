@@ -56,7 +56,7 @@ weight = 4
 
 ########################### Default parameters ##########################
 [params]
-logo = ""
+logo = "/images/logo.png"
 home = "About"
 # Meta data
 description = "This is meta description"

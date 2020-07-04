@@ -65,7 +65,7 @@ a {
 }
 
 .bg-orange {
-  background: #f9a743;
+  background: #6f6f76;
 }
 
 .bg-opacity {
@@ -568,4 +568,11 @@ footer p.copyright-text a:hover {
 }
 .contact-form button:focus{
   box-shadow:none;
+}
+
+.logo-nav {
+  margin-top: -5.1px;
+  margin-right: 2px;
+  width: 32px;
+  height: 32px;
 }
