@@ -72,16 +72,16 @@ serviceTwo:
   enable : true
   title : "Why Choose Apple Watch"
   items:
-    # about product item loop
-    - image : "images/cloud-1.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
-      button:
-        enable : true
-        label : "Check Features"
-        link : "#"
+    # # about product item loop
+    # - image : "images/cloud-1.png"
+    #   title : "Lorem ipsum dolor sit amet."
+    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+    #         sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+    #         quas, quo harum deserunt consequatur cumque!"
+    #   button:
+    #     enable : true
+    #     label : "Check Features"
+    #     link : "#"
         
     # about product item loop
     - image : "images/cloud-1.png"
@@ -109,30 +109,30 @@ serviceTwo:
 ############################## TEAM ##########################
 team:
   enable : true
-  title : "Watch Review"
+  title : "Our Team "
   testimonialItem:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Larry Yang"
+      # designation : "CEO, Themefisher"
+      image : "images/bio-liranyang.jpg"
+      content :  ""
+
+    # testimonial item loop
+    - name : "Changyang Wei"
+      # designation : "Changyang Wei"
+      image : "images/bio-yy.jpg"
+      content : ""
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Qing Wei"
+      # designation : "CEO, Themefisher"
+      image : "images/bio-qing.jpg"
+      content : ""
 
 ################################## CONTACT ###################
 contact:
   enable : true
   bgImage : "images/call-to-action.jpg"
-  title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  title : "Contact Us"
+  content : ""
   placeholder : "Your Email Address Here"

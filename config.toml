@@ -38,17 +38,17 @@ URL = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
 ###################################### Navigation ######################################
 
 [[menu.main]]
-name = "Service"
+name = "Services"
 URL = "service"
 weight = 2
 
 [[menu.main]]
-name = "Team"
+name = "The Team"
 URL = "team"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
+name = "Contact Us"
 URL = "contact"
 weight = 4
 

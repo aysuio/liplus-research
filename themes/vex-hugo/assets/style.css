@@ -451,8 +451,9 @@ a:active {
 }
 
 .testimonials .testimonial-block .author-details img {
-  border-radius: 50%;
-  width: 50px;
+  border-radius: 10%;
+  width: 90%;
+  height: auto;
 }
 
 .testimonials .testimonial-block .author-details h4 {
@@ -528,3 +529,32 @@ footer p.copyright-text a:hover {
 }
 
 /*# sourceMappingURL=maps/style.css.map */
+
+/* contact form */
+.contact-info{
+  margin-top:10%;
+}
+.contact-info img{
+  margin-bottom: 15%;
+}
+.contact-info h2{
+  margin-bottom: 10%;
+}
+.col-md-9{
+  background: #fff;
+  padding: 3%;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+  font-weight:600;
+}
+.contact-form button{
+  background: #25274d;
+  color: #fff;
+  font-weight: 600;
+  width: 25%;
+}
+.contact-form button:focus{
+  box-shadow:none;
+}
