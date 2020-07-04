@@ -23,13 +23,13 @@ features:
   # feature at the left of the image
   leftSide:
     # feature item loop
-  - icon : "tf-ion-ios-alarm-outline"
+  - icon : "tf-ion-ios-analytics-outline"
     title : "Systematic research approach"
     content : "Our team comes from a variety of professional backgrounds, bringing unparalleled research advantages"
     
     
     # feature item loop
-  - icon : "tf-ion-ios-cart-outline"
+  - icon : "tf-ion-ios-cog-outline"
     title : "Deep-dive data analysis"
     content : "We never stops digging out the valuable information from the data occean"
 
@@ -37,12 +37,12 @@ features:
   # feature at the right of the image
   rightSide:
     # feature item loop
-  - icon : "tf-ion-ios-alarm-outline"
+  - icon : "tf-ion-ios-pulse"
     title : "Market trend recognization"
     content : "We developed sensitive and accurate metrics to recognize the market trend with low latency"
 
     # feature item loop
-  - icon : "tf-ion-ios-bell-outline"
+  - icon : "tf-ion-ios-briefcase-outline"
     title : "Long term investment"
     content : "We focus on long term investment with fundamental analysis"
 
@@ -68,7 +68,7 @@ service:
 
             Available in csv, json, MongoDB(BSON) format
             "
-
+  
 
 ############################# SERVICE TWO #######################
 serviceTwo:
@@ -82,8 +82,8 @@ serviceTwo:
                 You will get our insight of this treasure and gain the unprecedent vision in the investment methdologies"
       button:
         enable : true
-        label : "Check Features"
-        link : "#"
+        label : "Contact us to learn more"
+        link : "#contact"
 
 
 #################################### Gallery ########################
@@ -144,7 +144,6 @@ team:
 contact:
   enable : true
   bgImage : "images/contact.jpg"
-  title : "Contact Us"
-  content : "If you'd like to get in touch, feel free to drop us a message at info@liplus-research
-  or leave us your information here below:"
+  title : "Get Product Updates"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
   placeholder : "Your Email Address Here"
