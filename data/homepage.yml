@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "INTRODUCTION"
   content : "LiPlus Research was founded in 2019 with passion to seek for the statistical significant factors in crypto world by monitoring wide range of multi-dimensional market data and utilizing deep learning techniques. We endeavor to unveil the truth under the massive data fog."
-  image : "images/home-photo.jpg"
+  image : "images/home-photo2.jpg"
   # button: "Learn more"
 
 ############################## product ###########################
@@ -24,71 +24,62 @@ features:
   leftSide:
     # feature item loop
   - icon : "tf-ion-ios-alarm-outline"
-    title : "Smooth Touch"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    title : "Systematic research approach"
+    content : "Our team comes from a variety of professional backgrounds, bringing unparalleled research advantages"
     
-    # feature item loop
-  - icon : "tf-ion-ios-bell-outline"
-    title : "Elegant Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
   - icon : "tf-ion-ios-cart-outline"
-    title : "Easy Pricing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    title : "Deep-dive data analysis"
+    content : "We never stops digging out the valuable information from the data occean"
 
 
   # feature at the right of the image
   rightSide:
     # feature item loop
   - icon : "tf-ion-ios-alarm-outline"
-    title : "Smooth Touch"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    title : "Market trend recognization"
+    content : "We developed sensitive and accurate metrics to recognize the market trend with low latency"
 
     # feature item loop
   - icon : "tf-ion-ios-bell-outline"
-    title : "Elegant Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    title : "Long term investment"
+    content : "We focus on long term investment with fundamental analysis"
 
-    # feature item loop
-  - icon : "tf-ion-ios-cart-outline"
-    title : "Easy Pricing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+
 
 
 ############################# SERVICE ONE ############################
 service:
   enable : true
   image : "images/cloud-2.png"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  title : "INSTITUTIONAL GRADE CRYPTO MARKET DATA"
+  content : "**60+** crypto exchanges and **20+** major pairs
+
+
+            **Tick-level** trade data and aggregated trade data
+
+
+            **Level II** order book data with **500ms - 1000ms** update interval
+
+
+            History Back to **2017**
+            
+
+            Available in csv, json, MongoDB(BSON) format
+            "
 
 
 ############################# SERVICE TWO #######################
 serviceTwo:
   enable : true
-  title : "Why Choose Apple Watch"
+  title : "EXCLUSIVE MARKET RESEARCH"
   items:
-    # # about product item loop
-    # - image : "images/cloud-1.png"
-    #   title : "Lorem ipsum dolor sit amet."
-    #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-    #         sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-    #         quas, quo harum deserunt consequatur cumque!"
-    #   button:
-    #     enable : true
-    #     label : "Check Features"
-    #     link : "#"
-        
     # about product item loop
     - image : "images/cloud-1.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      title : "Multi-dimensional Market Research"
+      content : "Market data in the crypto world is massive and rich, yet noisy and distracting. 
+                You will get our insight of this treasure and gain the unprecedent vision in the investment methdologies"
       button:
         enable : true
         label : "Check Features"
@@ -109,30 +100,50 @@ serviceTwo:
 ############################## TEAM ##########################
 team:
   enable : true
-  title : "Our Team "
+  title : "The Team"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Larry Yang"
+      image : "images/avater.png"
+      content : "Larry has been an engineer designing control system and researching on thermal/fluid dynamics. He now deep dives into the data-science field"
+      
+    # testimonial item loop
+    - name : "Changyang Wei"
+
+      image : "images/avater.png"
+      content : "Changyang is currently pursuing his M.S. Deg in Electrical Engineering and focusing on robot control and image processing."
+    # testimonial item loop
+    - name : "Qing Wei"
+      image : "images/avater.png"
+      content : "Qing has been working in NBC Universal as a data engineer for over 2 years. With her strong background in math and deep learning, we have been able to develope multiple highly expressive strategies to our system. "
+
+############################## TEAM ##########################
+team:
+  enable : true
+  title : "The Team "
   testimonialItem:
     # testimonial item loop
     - name : "Larry Yang"
       # designation : "CEO, Themefisher"
       image : "images/bio-liranyang.jpg"
-      content :  ""
+      content : "Larry has been an engineer designing control system and researching on thermal/fluid dynamics. He now dives into the data-science world"
 
     # testimonial item loop
     - name : "Changyang Wei"
       # designation : "Changyang Wei"
       image : "images/bio-yy.jpg"
-      content : ""
+      content : "Changyang is currently pursuing his M.S. Deg in Electrical Engineering and focusing on robot control and image processing."
       
     # testimonial item loop
     - name : "Qing Wei"
       # designation : "CEO, Themefisher"
       image : "images/bio-qing.jpg"
-      content : ""
-
+      content : "Qing has been working in NBC Universal as a data engineer for over 2 years. With her strong background in math and deep learning, we have been able to develope multiple highly expressive strategies to our system. "
+      
 ################################## CONTACT ###################
 contact:
   enable : true
-  bgImage : "images/call-to-action.jpg"
-  title : "Contact Us"
-  content : ""
+  bgImage : "images/contact.jpg"
+  title : "Get Product Updates"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
   placeholder : "Your Email Address Here"
