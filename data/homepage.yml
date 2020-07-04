@@ -95,26 +95,6 @@ serviceTwo:
 ############################## TEAM ##########################
 team:
   enable : true
-  title : "The Team"
-  testimonialItem:
-    # testimonial item loop
-    - name : "Larry Yang"
-      image : "images/avater.png"
-      content : "Larry has been an engineer designing control system and researching on thermal/fluid dynamics. He now deep dives into the data-science field"
-      
-    # testimonial item loop
-    - name : "Changyang Wei"
-
-      image : "images/avater.png"
-      content : "Changyang is currently pursuing his M.S. Deg in Electrical Engineering and focusing on robot control and image processing."
-    # testimonial item loop
-    - name : "Qing Wei"
-      image : "images/avater.png"
-      content : "Qing has been working in NBC Universal as a data engineer for over 2 years. With her strong background in math and deep learning, we have been able to develope multiple highly expressive strategies to our system. "
-
-############################## TEAM ##########################
-team:
-  enable : true
   title : "The Team "
   testimonialItem:
     # testimonial item loop
