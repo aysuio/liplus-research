@@ -29,7 +29,7 @@ features:
     
     
     # feature item loop
-  - icon : "tf-ion-ios-cog-outline"
+  - icon : "tf-ion-social-bitcoin-outline"
     title : "Deep-dive data analysis"
     content : "We never stops digging out the valuable information from the data occean"
 
@@ -42,9 +42,9 @@ features:
     content : "We developed sensitive and accurate metrics to recognize the market trend with low latency"
 
     # feature item loop
-  - icon : "tf-ion-ios-briefcase-outline"
-    title : "Long term investment"
-    content : "We focus on long term investment with fundamental analysis"
+  - icon : "tf-ion-cash"
+    title : "Long & Short term investment"
+    content : "We focus on both long and short term investment with proven strategies"
 
 
 
@@ -54,19 +54,19 @@ service:
   enable : true
   image : "images/cloud-2.png"
   title : "INSTITUTIONAL GRADE CRYPTO MARKET DATA"
-  content : "**60+** crypto exchanges and **20+** major pairs
+  content : "**60+** crypto exchanges and **20+** major pairs Back to **2017**
 
 
-            **Tick-level** trade data and aggregated trade data
+            **Tick-level Trade Data** - Tick-by-tick or aggregated
 
 
-            **Level II** order book data with **500ms - 1000ms** update interval
+            **Level II Order Book** - With **500ms - 1000ms** update interval
 
 
-            History Back to **2017**
-            
+            **Derivatives Data** - Implied volatility, Liquidations, funding rates, 24 hr volume, and more.
 
-            Available in csv, json, MongoDB(BSON) format
+
+            **Format Available** - In csv, json, MongoDB(BSON)
             "
   
 

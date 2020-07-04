@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.example.com/"
+baseurl = "https://www.liplus-research.com/"
 languageCode = "en"
 title = "LiPlus"
 theme = "vex-hugo"
@@ -11,6 +11,8 @@ theme = "vex-hugo"
 URL = "https://fonts.googleapis.com/css?family=Droid+Serif:400i|Source+Sans+Pro:300,400,600,700"
 [[params.plugins.css]]
 URL = "https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700"
+[[params.plugins.css]]
+URL = "https://fonts.googleapis.com/css?family=Roboto::300,400,600,700"
 [[params.plugins.css]]
 URL = "css/bootstrap.min.css"
 [[params.plugins.css]]
