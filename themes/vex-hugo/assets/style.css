@@ -531,6 +531,16 @@ footer p.copyright-text a:hover {
 /*# sourceMappingURL=maps/style.css.map */
 
 /* contact form */
+.contact{
+  padding: 4%;
+  height: 400px;
+}
+.col-md-3{
+  background: #ff9b00;
+  padding: 4%;
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+}
 .contact-info{
   margin-top:10%;
 }
@@ -548,6 +558,7 @@ footer p.copyright-text a:hover {
 }
 .contact-form label{
   font-weight:600;
+  color: #fff;
 }
 .contact-form button{
   background: #25274d;

@@ -144,6 +144,7 @@ team:
 contact:
   enable : true
   bgImage : "images/contact.jpg"
-  title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  title : "Contact Us"
+  content : "If you'd like to get in touch, feel free to drop us a message at info@liplus-research
+  or leave us your information here below:"
   placeholder : "Your Email Address Here"
