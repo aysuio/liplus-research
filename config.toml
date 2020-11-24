@@ -56,7 +56,7 @@ weight = 4
 
 ########################### Default parameters ##########################
 [params]
-logo = "/images/logo.png"
+logo = "/images/logo-liplus1.jpg"
 home = "About"
 # Meta data
 description = "This is meta description"
